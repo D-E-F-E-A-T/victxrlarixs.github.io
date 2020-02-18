@@ -10,7 +10,7 @@ Easy customizable grids, spaces, elements ...
 
 ## Easy read and clone the code 
 ```
-git clone https://github.com/victxrlarixs/
+git clone https://github.com/victxrlarixs/victxrlarixs.github.io
 ```
 ```javascript
 // code away!
